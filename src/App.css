@@ -31,3 +31,14 @@
     transform: rotate(360deg);
   }
 }
+
+.reset {
+  margin-left: 7px;
+  height: 42px;
+  border-radius: 5px;
+  border: 2px solid gray;
+  cursor: pointer;
+  width: 130px;
+  margin-bottom: 20px;
+  font-size: 17px;
+}

@@ -24,7 +24,7 @@ export default ({ searchValue, data, update }) => {
             value={searchValue}
             type="text"
             className="searchBar"
-            placeholder="Search..."
+            placeholder="Поиск..."
             onChange={dataSearch}
         />
       </div>

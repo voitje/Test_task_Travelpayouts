@@ -6,10 +6,8 @@ export default ({ data}) => {
     return (<UserData firm={firm}/>);
   });
   return (
-      <table className="table">
-        <tbody>
+      <div>
         {firms}
-        </tbody>
-      </table>
+      </div>
   );
 };
