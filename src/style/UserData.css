@@ -1,0 +1,13 @@
+.firm {
+    height: 80px;
+    background-color: white;
+    width: 900px;
+    margin-bottom: 10px;
+    border-radius: 7px;
+}
+
+.firmName {
+    padding-top: 10px;
+    font-size: 25px;
+    padding-left: 20px;
+}
